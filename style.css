@@ -1,0 +1,25 @@
+
+.position_div {
+    background-color: yellow;
+    width: 50%;
+    margin-left: 150px;
+    border: 2px solid red;
+    height: 50px;
+        }
+.position_div_2 {
+    background-color: blue;
+    width: 50%;
+    margin-left: 250px;
+    margin-top: -15px;
+    border: 2px solid red;
+    height: 50px;
+        }
+
+        .position_div_3 {
+    background-color: purple;
+    width: 50%;
+    margin-left: 350px;
+    margin-top: -15px;
+    border: 2px solid red;
+    height: 50px;
+        }
